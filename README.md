@@ -7,3 +7,4 @@ Generated a sales dashboard that identifies areas with the highest and lowest sa
 * Bar Chart is used to identify the areas of high sales revenue.
 * Pie Chart is used to identify the areas of high orders.
 * A slicer of categories for changing the charts as per preference.
+## Tool involved is Power BI
